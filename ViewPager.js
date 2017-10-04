@@ -1,5 +1,6 @@
+import PropTypes from 'prop-types';
 
-import React,{Component,PropTypes} from 'react';
+import React,{PropTypes} from 'react';
 import {
   requireNativeComponent,
   ViewPagerAndroid,
